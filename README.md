@@ -1,9 +1,3 @@
-Basit Konsol Not Defteri Uygulaması
-Bu, Python ile yazılmış basit bir konsol tabanlı not defteri uygulamasıdır. Kullanıcıların notlarını eklemesine, görüntülemesine ve silmesine olanak tanır. Notlar, uygulamanın kapatılıp açılmasına rağmen kalıcı olması için otomatik olarak bir metin dosyasına kaydedilir.
+Simple Console Notepad Application This is a simple console-based notepad application written in Python. It allows users to add, view, and delete notes. Notes are automatically saved to a text file to ensure they remain persistent even when the application is closed and reopened.
 
-Özellikler;
-Not Ekleme: Yeni notlar oluşturma.
-Notları Görüntüleme: Tüm kayıtlı notları listeleme.
-Not Silme: Varolan notları numarasına göre silme.
-Kalıcı Saklama: Notlar, `notlar.txt` adlı bir dosyada otomatik olarak saklanır.
-Kullanıcı Dostu Menü: Basit ve anlaşılır konsol menüsü.
+Features: Add Note: Create new notes. View Notes: List all saved notes. Delete Note: Delete existing notes by number. Persistent Storage: Notes are automatically saved in a file named notes.txt. User-Friendly Menu: A simple and intuitive console menu.
